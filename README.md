@@ -59,13 +59,20 @@ sales-analytics-pipeline/
 └── README.md
 ```
 
+## Example Output
+
+- Time-Series Plot: reports/time_series_total_quantity.png
+- Correlation Heatmap: reports/correlation_heatmap.png
+- Feature Matrix Shape: (rows, columns)
+
+
 ## License
 This project is licensed under the MIT License.
 
 ## Author
 Parampreet Singh
-GitHub: github.com/parampreetchahal
-LinkedIn: linkedin.com/in/parampreet-singh23
-Email: parampreets537@gmail.com
-git clone https://github.com/username/sales-analytics-pipeline.git
-cd sales-analytics-pipeline
+- GitHub: github.com/parampreetchahal
+- LinkedIn: linkedin.com/in/parampreet-singh23
+- Email: parampreets537@gmail.com
+- git clone https://github.com/username/sales-analytics-pipeline.git
+- cd sales-analytics-pipeline
