@@ -74,5 +74,4 @@ Parampreet Singh
 - GitHub: github.com/parampreetchahal
 - LinkedIn: linkedin.com/in/parampreet-singh23
 - Email: parampreets537@gmail.com
-- git clone https://github.com/username/sales-analytics-pipeline.git
-- cd sales-analytics-pipeline
+
